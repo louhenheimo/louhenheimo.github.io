@@ -7,14 +7,12 @@ The idea of a Uses page is to tell you about the stuff I use.
 
 Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
 
-I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
-
 ## Editor + Terminal
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
-- iTerm2 is my terminal
+- Currently I'm using [Visual Studio Code](https://code.visualstudio.com/) as my editor
+- Firefox is my main browser
+- Alacritty (Linux) and PuTTY (Windows) is what I use for terminal
 
 ## Desktop Apps
 
-- Better Touch Tool for window management and custom keyboard shortcuts
+- Logseq for keeping up my Personal Knowledge Management database
