@@ -51,7 +51,7 @@ profiles:
 highlight_name: true
 ---
 
-Petri Louhenheimo is a Systems Administrator, living in Kangasala, Finland. 
+Hello there! I'm a Systems Administrator, living in Kangasala, Finland. 
 
 Communication sciences aficionado, especially UI/UX related stuff (well, human-technology interaction in general); also cloud stuff, privacy and societal resilience are what interests me most. Born in the distant 1970s when mobile phones were carried in briefcases and no-one would’ve believed you can one day be your own “banker” by utilizing blockchain technology.
 
