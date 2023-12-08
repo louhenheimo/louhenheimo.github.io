@@ -7,7 +7,7 @@ tags:
   - Hive
   - introduceyourself
 image:
-  caption: 'Image credit: [**Hitesh Choudhary**][https://unsplash.com/@hiteshchoudhary]
+  caption: 'Image credit: [**Hitesh Choudhary**][https://unsplash.com/@hiteshchoudhary]'
 ---
 
 Greetings there! This is now officially my first posting to the Hive.blog (via my own website/blog at louhenheimo.com – hopefully the bridge I’m using does its magic and makes this work automatically).
