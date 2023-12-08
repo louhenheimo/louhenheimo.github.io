@@ -58,5 +58,6 @@ Communication sciences aficionado, especially UI/UX related stuff (well, human-t
 This site, Louhenheimo.com, is my personal internet diary, where I may rant about random things buggering my daily life. If you disagree about my point of view, or even want to feel like you’ve been offended by my texts, I hope you have decency to be open about it and leave a comment. That way, we might come up with some sort of mutual understanding and in the end no-one really needs to get offended – I hope! <3 🙂
 
 *In the end, it’s not going to matter how many breaths you took, but how many moments took your breath away.*
+
 –Xiong Sheng
 
