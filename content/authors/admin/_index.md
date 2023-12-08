@@ -53,7 +53,7 @@ highlight_name: true
 
 Petri Louhenheimo is a Systems Administrator, living in Kangasala, Finland. 
 
-Communication sciences aficionado, especially UI/UX related stuff (well, human-technology interaction in general); also cloud stuff, privacy and societal resilience are what interests me most. Originally from Tampere, but currently living in Kangasala. Born in the distant 1970s when mobile phones were carried in briefcases and no-one would’ve believed you can one day be your own “banker” by utilizing blockchain technology.
+Communication sciences aficionado, especially UI/UX related stuff (well, human-technology interaction in general); also cloud stuff, privacy and societal resilience are what interests me most. Born in the distant 1970s when mobile phones were carried in briefcases and no-one would’ve believed you can one day be your own “banker” by utilizing blockchain technology.
 
 This site, Louhenheimo.com, is my personal internet diary, where I may rant about random things buggering my daily life. If you disagree about my point of view, or even want to feel like you’ve been offended by my texts, I hope you have decency to be open about it and leave a comment. That way, we might come up with some sort of mutual understanding and in the end no-one really needs to get offended – I hope! <3 🙂
 
