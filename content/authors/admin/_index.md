@@ -51,7 +51,7 @@ profiles:
 highlight_name: true
 ---
 
-Hello there! I'm a (friendly!) [**Systems Administrator**](https://en.wikipedia.org/wiki/System_administration), living in [**Kangasala**](https://en.wikipedia.org/wiki/Kangasala), [**Finland**](https://en.wikipedia.org/wiki/Finland). 
+Hello there! I'm a [**Systems Administrator**](https://en.wikipedia.org/wiki/System_administration), living in [**Kangasala**](https://en.wikipedia.org/wiki/Kangasala), [**Finland**](https://en.wikipedia.org/wiki/Finland). 
 
 Communication sciences aficionado, especially [**UI/UX**](https://en.wikipedia.org/wiki/User_experience_design) related stuff (well, [**Human-Technology Interaction**](https://en.wikipedia.org/wiki/Human–computer_interaction) in general; also [**cloud stuff**](https://en.wikipedia.org/wiki/Cloud_computing), [**privacy**](https://en.wikipedia.org/wiki/Privacy) and societal resilience are what interests me most. Born in the distant 1970s when mobile phones were carried in briefcases and no-one would’ve believed you can one day be your own “banker” by utilizing blockchain technology.
 
