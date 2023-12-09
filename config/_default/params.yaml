@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: blue
+  color: sky
 
 # SEO
 marketing:
@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Personal blog of Petri Louhenheimo'
+    twitter: 'louhenheimo'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,7 +36,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Petri Louhenheimo. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -58,6 +58,6 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    #url: 'https://github.com/louhenheimo/louhenheimo.github.io'
     content_dir: content
     branch: main
